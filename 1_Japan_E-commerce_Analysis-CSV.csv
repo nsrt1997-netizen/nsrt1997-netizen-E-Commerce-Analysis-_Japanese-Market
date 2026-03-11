@@ -1,0 +1,40 @@
+Year,Quarter,Category,Sub-Category,Total_Sales,Online_Sales,Online_Penetration,YoY_Growth,Region,Customer_Segment,Marketing_Spend,Return_Rate,Profit_Margin,Growth_Status,Marketing_ROI,Sales_Per_Million
+2023,Q4,Electronics,Smartphones,1250,650,52,8.5,Kanto,Youth,120,2.1,516.35,Medium,5.416666667,0.65
+2023,Q4,Electronics,Laptops,980,539,55,7.2,Kansai,Professionals,95,1.8,434.298,Medium,5.673684211,0.539
+2023,Q4,Electronics,TVs,820,410,50,5.5,Kyushu,Families,80,2.5,319.75,Medium,5.125,0.41
+2023,Q4,Fashion,Women's Apparel,2150,860,40,12.3,Kanto,Women,200,6.8,601.52,High,4.3,0.86
+2023,Q4,Fashion,Men's Apparel,1850,666,36,9.8,Kanto,Men,170,5.2,461.368,Medium,3.917647059,0.666
+2023,Q4,Fashion,Footwear,1350,540,40,8.4,Kansai,Youth,130,7.1,371.66,Medium,4.153846154,0.54
+2023,Q4,Food,Packaged Foods,3850,385,10,4.2,Countrywide,Families,150,0.8,231.92,Low,2.566666667,0.385
+2023,Q4,Food,Fresh Produce,2950,177,6,3.1,Countrywide,Families,100,1.2,74.876,Low,1.77,0.177
+2023,Q4,Beauty,Skincare,1650,660,40,15.7,Kanto,Women,180,3.2,458.88,High,3.666666667,0.66
+2023,Q4,Beauty,Makeup,1250,562,45,14.2,Kanto,Youth,160,2.9,385.702,High,3.5125,0.562
+2023,Q3,Electronics,Smartphones,1180,601,51,7.8,Kanto,Youth,115,2.2,472.778,Medium,5.226086957,0.601
+2023,Q3,Electronics,Laptops,920,496,54,6.5,Kansai,Professionals,90,1.9,396.576,Medium,5.511111111,0.496
+2023,Q3,Electronics,TVs,780,382,49,5,Kyushu,Families,75,2.6,297.068,Low,5.093333333,0.382
+2023,Q3,Fashion,Women's Apparel,2050,800,39,11.2,Kanto,Women,190,7,554,High,4.210526316,0.8
+2023,Q3,Fashion,Men's Apparel,1750,612,35,8.9,Kanto,Men,160,5.4,418.952,Medium,3.825,0.612
+2023,Q2,Electronics,Smartphones,1120,571,51,7.2,Kanto,Youth,110,2.3,447.867,Medium,5.190909091,0.571
+2023,Q2,Electronics,Laptops,880,475,54,6,Kansai,Professionals,85,2,380.5,Medium,5.588235294,0.475
+2023,Q2,Fashion,Women's Apparel,1980,752,38,10.5,Kanto,Women,185,7.2,512.856,High,4.064864865,0.752
+2023,Q1,Electronics,Smartphones,1080,551,51,6.8,Kanto,Youth,105,2.4,432.776,Medium,5.247619048,0.551
+2023,Q1,Electronics,Laptops,850,459,54,5.8,Kansai,Professionals,80,2.1,369.361,Medium,5.7375,0.459
+2022,Q4,Electronics,Smartphones,1150,563,49,6.2,Kanto,Youth,110,2.5,438.925,Medium,5.118181818,0.563
+2022,Q4,Electronics,Laptops,910,473,52,5.2,Kansai,Professionals,85,2.2,377.594,Medium,5.564705882,0.473
+2022,Q4,Fashion,Women's Apparel,1910,688,36,8.7,Kanto,Women,170,7.8,464.336,Medium,4.047058824,0.688
+2022,Q4,Fashion,Men's Apparel,1680,571,34,7.2,Kanto,Men,150,6.1,386.169,Medium,3.806666667,0.571
+2022,Q4,Food,Packaged Foods,3690,332,9,3.5,Countrywide,Families,140,0.9,189.012,Low,2.371428571,0.332
+2022,Q4,Beauty,Skincare,1420,525,37,12.8,Kanto,Women,160,3.8,345.05,High,3.28125,0.525
+2022,Q3,Electronics,Smartphones,1090,525,48,5.8,Kanto,Youth,105,2.6,406.35,Medium,5,0.525
+2022,Q3,Fashion,Women's Apparel,1840,643,35,7.9,Kanto,Women,165,8,426.56,Medium,3.896969697,0.643
+2022,Q2,Electronics,Smartphones,1040,499,48,5.3,Kanto,Youth,100,2.7,385.527,Medium,4.99,0.499
+2022,Q2,Fashion,Women's Apparel,1790,608,34,7.2,Kanto,Women,160,8.2,398.144,Medium,3.8,0.608
+2022,Q1,Electronics,Smartphones,1010,475,47,4.8,Kanto,Youth,95,2.8,366.7,Low,5,0.475
+2021,Q4,Electronics,Smartphones,1080,486,45,3.2,Kanto,Youth,90,3,381.42,Low,5.4,0.486
+2021,Q4,Fashion,Women's Apparel,1750,560,32,5.8,Kanto,Women,150,8.5,362.4,Medium,3.733333333,0.56
+2021,Q4,Food,Packaged Foods,3560,285,8,2.8,Countrywide,Families,130,1,152.15,Low,2.192307692,0.285
+2020,Q4,Electronics,Smartphones,1045,418,40,-1.5,Kanto,Youth,85,3.5,318.37,Low,4.917647059,0.418
+2020,Q4,Fashion,Women's Apparel,1650,462,28,-4.2,Kanto,Women,140,9,280.42,Low,3.3,0.462
+2019,Q4,Electronics,Smartphones,1060,371,35,4.5,Kanto,Youth,80,3.2,279.128,Low,4.6375,0.371
+2019,Q4,Fashion,Women's Apparel,1720,447,26,3.8,Kanto,Women,135,8.8,272.664,Low,3.311111111,0.447
+2018,Q4,Electronics,Smartphones,1015,304,30,3.2,Kanto,Youth,75,3.4,218.664,Low,4.053333333,0.304
